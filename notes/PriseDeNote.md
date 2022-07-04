@@ -20,13 +20,13 @@ Schéma d’objet qui permette de trouver une solution à un problème courant.
 
 -Applis console pour les exercices.
 
-- Pattern de construction.
+- Pattern de conception.
 
 -Pattern de structuration.
 
 -Pattern de comportement.
 
-## Designs patterns de construction
+## Designs patterns de conception
 
 ### Abstract factory
 
@@ -53,3 +53,11 @@ Le builder appartient au groupe des patrons de création. Il améliore la sécur
 ![alt text](./img/builder2.png)
 
 Utilisation : Un client à besoin de construire des objets copmlexes sans connaitre l'implementation.
+
+### Factory méthode
+
+Introduire une méthode abstraite (builder) pour préparer la construction de l'objet.
+
+![alt text](./img/FactoryMethode2.png)
+
+![alt text](./img/FactoryMethode.png)
