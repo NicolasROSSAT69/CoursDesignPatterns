@@ -33,3 +33,5 @@ Description partie de la classe scooter
 
 La classes FabriqueVéhiculeElectrique et FabriqueVéhiculeEssence implémente une méthode qui permet de créer un scooter en fonction de son type ScooterElectrique ou ScooterEssence.
 
+![alt text](./img/AbstractFactory2.png)
+
