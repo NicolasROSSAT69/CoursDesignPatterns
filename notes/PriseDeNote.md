@@ -93,3 +93,57 @@ Exercice :
 - Code + schéma du pattern prototype
 - Schéma du pattern singleton
 - => code du pattern singleton
+
+Code Singleton Vendeur :
+
+```csharp
+    namespace Prototype;
+
+    public class Vendeur
+    {
+        private static Vendeur _instance = null;
+
+        public String nom { get; set; }
+        public String prenom { get; set; }
+
+        private Vendeur()
+        {
+        }
+
+        public static Vendeur getInstance()
+        {
+            if (_instance == null)
+            {
+                _instance = new Vendeur();
+            }
+            return _instance;
+            
+        }
+    }
+
+```
+
+Code test du singleton
+```csharp
+static void Main(string[] args)
+{
+    Vendeur vendeur1 = Vendeur.getInstance();
+    vendeur1.nom = "ROSSAT";
+    vendeur1.prenom = "Nicolas";
+    
+    Console.WriteLine("Nom : " + vendeur1.nom);
+    Console.WriteLine("Prenom : " + vendeur1.prenom);
+    
+    Vendeur vendeur2 = Vendeur.getInstance();
+    vendeur2.nom = "RORO";
+    vendeur2.prenom = "Nico";
+    
+    Console.WriteLine("Vendeur 1 : ");
+    Console.WriteLine("Nom : " + vendeur1.nom);
+    Console.WriteLine("Prenom : " + vendeur1.prenom);
+    
+    Console.WriteLine("Vendeur 2 : ");
+    Console.WriteLine("Nom : " + vendeur2.nom);
+    Console.WriteLine("Prenom : " + vendeur2.prenom);
+}
+```
