@@ -2,7 +2,7 @@ using System;
 
 public class DocumentPdf : Document
 {
-  protected ComposantPdf outilPdf = new ComposantPdf();
+  protected ComposantPdf outilPdf = new ComposantPdf(); // Composition
 
   public string contenu
   {

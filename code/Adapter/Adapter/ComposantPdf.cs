@@ -1,5 +1,5 @@
 using System;
-
+//Adaptation
 public class ComposantPdf
 {
   protected string contenu;
@@ -11,7 +11,7 @@ public class ComposantPdf
 
   public void pdfPrepareAffichage()
   {
-    Console.WriteLine("Affichage PDF : Début");
+    Console.WriteLine("Affichage PDF : Dï¿½but");
   }
 
   public void pdfRafraichit()
