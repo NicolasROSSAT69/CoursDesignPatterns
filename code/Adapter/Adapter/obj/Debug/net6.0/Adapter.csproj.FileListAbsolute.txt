@@ -1,0 +1,15 @@
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Adapter/Adapter/bin/Debug/net6.0/Adapter
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Adapter/Adapter/bin/Debug/net6.0/Adapter.deps.json
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Adapter/Adapter/bin/Debug/net6.0/Adapter.runtimeconfig.json
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Adapter/Adapter/bin/Debug/net6.0/Adapter.dll
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Adapter/Adapter/bin/Debug/net6.0/Adapter.pdb
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Adapter/Adapter/obj/Debug/net6.0/Adapter.csproj.AssemblyReference.cache
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Adapter/Adapter/obj/Debug/net6.0/Adapter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Adapter/Adapter/obj/Debug/net6.0/Adapter.AssemblyInfoInputs.cache
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Adapter/Adapter/obj/Debug/net6.0/Adapter.AssemblyInfo.cs
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Adapter/Adapter/obj/Debug/net6.0/Adapter.csproj.CoreCompileInputs.cache
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Adapter/Adapter/obj/Debug/net6.0/Adapter.dll
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Adapter/Adapter/obj/Debug/net6.0/refint/Adapter.dll
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Adapter/Adapter/obj/Debug/net6.0/Adapter.pdb
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Adapter/Adapter/obj/Debug/net6.0/Adapter.genruntimeconfig.cache
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Adapter/Adapter/obj/Debug/net6.0/ref/Adapter.dll

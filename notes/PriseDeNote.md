@@ -22,7 +22,7 @@ Schéma d’objet qui permet de trouver une solution à un problème courant. Op
 
 - Pattern de conception.
 
-- Pattern de structuration.
+- Pattern de structure ou de structuration.
 
 - Pattern de comportement.
 
@@ -123,7 +123,8 @@ Code Singleton Vendeur :
 
 ```
 
-Code test du singleton
+Code test du singleton:
+
 ```csharp
 static void Main(string[] args)
 {
@@ -146,4 +147,34 @@ static void Main(string[] args)
     Console.WriteLine("Nom : " + vendeur2.nom);
     Console.WriteLine("Prenom : " + vendeur2.prenom);
 }
+```
+
+## Design Pattern de structure ou de structuration
+
+### Introduction
+
+Les patterns de structuration permettent de faciliter l'indépendance
+de l'interface d'un objet et de son implémentation.
+
+En fournissant les interfaces ce pattern permet d'encapsuler la composition des objets.
+
+Cela augmente le niveau d'abstraction d'un système donné un peu à la manière
+des patterns de création qui encapsulent la création d'objet.
+
+Ces patterns mettent en avant les interfaces.
+
+### Adapter
+
+Le but de ce pattern est de convertir l'interface d'une classe donnée en une interface attendue par des clients afin qu'il puissent travailler ensemble.
+
+En résumé, il permet de donner à une classe existante une nouvelle interface pour répondre aux besoins d'un client.
+
+![alt text](./img/Adapter.png)
+
+Dans le schéma la classe ComposantPdf est l'adaptation de l'interface Document.
+
+La comosition est faite dans la classe DocumentPdf avec cette ligne
+
+```csharp
+protected ComposantPdf outilPdf = new ComposantPdf(); // Composition
 ```
