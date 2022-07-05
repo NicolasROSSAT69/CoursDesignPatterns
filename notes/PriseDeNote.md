@@ -2,29 +2,29 @@
 
 ## Définition
 
-Schéma d’objet qui permette de trouver une solution à un problème courant.
+Schéma d’objet qui permet de trouver une solution à un problème courant. Optimise la conception d'objet dans une application.
 
 ## Pré requis
 
--Créer un repo Git bien documenter avec les prises de note de la semaine et les exercices.
+- Créer un repo Git bien documenter avec les prises de note de la semaine et les exercices.
 
--C# / Dotnet 6.
+- C# / Dotnet 6.
 
--Faire le code en anglais.
+- Faire le code en anglais.
 
--Commenter en anglais le code si possible sinon en français.
+- Commenter en anglais le code si possible sinon en français.
 
--Base solide en POO.
+- Base solide en POO.
 
 ## Objectifs
 
--Applis console pour les exercices.
+- Applis console pour les exercices.
 
 - Pattern de conception.
 
--Pattern de structuration.
+- Pattern de structuration.
 
--Pattern de comportement.
+- Pattern de comportement.
 
 ## Designs patterns de conception
 
@@ -61,3 +61,35 @@ Introduire une méthode abstraite (builder) pour préparer la construction de l'
 ![alt text](./img/FactoryMethode2.png)
 
 ![alt text](./img/FactoryMethode.png)
+
+### Singleton
+
+Le pattern est un patron de conception de création qui garantit que l’instance d’une classe n’existe qu’en un seul exemplaire, tout en fournissant un point d’accès global à cette instance.
+
+Le pattern singleton est utilisé pour créer une instance unique d'une classe.
+
+Le pattern Abstract est suceptible d'utiliser ce type d'instance unique.
+
+Notre application va utiliser la classe liasse vierge
+(LiasseVierge) qui ne possédera qu'une seule instance.
+
+![alt text](./img/Singleton.png)
+
+![alt text](./img/Singleton2.png)
+
+Chaque classe qui utilise la liasse vierge doit avoir accès
+à la même instance. On doit surtout s'arranger pour qu'on ne puisse pas en créer de nouvelles
+(avec l'opérateur new).
+
+### Prototype
+
+Le pattern permet la création d'objets à partir d'autres objets appelés "prototypes"
+disposant d'une méthode Clone() qui retourne un objet identique.
+
+![alt text](./img/Prototype.png)
+
+Exercice :
+
+- Code + schéma du pattern prototype
+- Schéma du pattern singleton
+- => code du pattern singleton
