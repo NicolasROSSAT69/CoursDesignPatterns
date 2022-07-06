@@ -178,3 +178,31 @@ La comosition est faite dans la classe DocumentPdf avec cette ligne
 ```csharp
 protected ComposantPdf outilPdf = new ComposantPdf(); // Composition
 ```
+
+### Bridge
+
+Le pattern Bridge est utilisé pour séparer le comportement de l'implémentation de l'interface et de l'implémentation de l'objet.
+
+![alt text](./img/BridgeAbst.png)
+
+#### Exemple
+
+On s'intéresse au demande d'immatriculation des véhicules.
+
+![alt text](./img/Bridge.png)
+
+![alt text](./img/BridgeCom.png)
+
+Le formulaire de demande d'immatriculation possède deux implémentations différentes.
+
+- FormulaireImmat
+- FormulaireImmatHTML
+- FormulaireImmatAPP
+
+Au départ le système a été conçu pour la France uniquement.
+
+Ensuite on a du créé une sous-classe FormulaireImmatCH, elle aussi
+abstraite pour avoir également deux sous-classe concrètes (qui sont FormulaireImmatHTML et FormulaireImmatAPP dédiées à la Suisse)
+
+Au lieu de devoir ajouter la classe FormulaireImmatHTML et FormulaireImmatAPP
+à chaque rajout de pays on ajoute uniquement une classe qui hérite de FormulaireImmatriculation.
