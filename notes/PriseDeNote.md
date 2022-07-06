@@ -206,3 +206,14 @@ abstraite pour avoir également deux sous-classe concrètes (qui sont Formulaire
 
 Au lieu de devoir ajouter la classe FormulaireImmatHTML et FormulaireImmatAPP
 à chaque rajout de pays on ajoute uniquement une classe qui hérite de FormulaireImmatriculation.
+
+### Composite
+
+Le pattern Composite offre un cadre de conception d'une composition d'objet dont on ne connait pas la profondeur, (On peut utiliser un arbre en tant qu'analogie).
+
+Les "clients" interagissent avec les objets sans connaitre la structure
+de l'arbre.
+
+![alt text](./img/Composite.png)
+
+![alt text](./img/Composite2.png)
