@@ -226,3 +226,26 @@ SUPPLEMENTAIRE à un objet sans modifier l'interface de l'objet ("les clients d 
 Il s'agit d'une alternative à la création d'une sous-classe qui permettrait d'enrichir l'objet.
 
 ![alt text](./img/Decorateur.png)
+
+## Design Pattern de comportement
+
+Les pattern de comportement distribuent les algorithmes/traitements
+entre les objets.
+
+Ils organisent les interactions en renseignant le "flux de controle"
+et de traitement au sein d'un système d'objets.
+
+La distribution se fait soit par Héritage soit par "délégation".
+
+### Chain of Responsability
+
+Le but est de construire une chaine d'objets de manière à ce que
+si un objet de la chaine ne peut répondre à une requête, il puisse
+la passer à un "successeur" et ainsi de suite jusqu'à ce que l'un des
+objets puissent y répondre.
+
+![alt text](./img/Chain3.png)
+
+![alt text](./img/Chain.png)
+
+![alt text](./img/Chain2.png)
