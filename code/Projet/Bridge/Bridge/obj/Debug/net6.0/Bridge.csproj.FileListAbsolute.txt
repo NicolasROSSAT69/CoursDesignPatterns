@@ -1,0 +1,15 @@
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Projet/Bridge/Bridge/bin/Debug/net6.0/Bridge
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Projet/Bridge/Bridge/bin/Debug/net6.0/Bridge.deps.json
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Projet/Bridge/Bridge/bin/Debug/net6.0/Bridge.runtimeconfig.json
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Projet/Bridge/Bridge/bin/Debug/net6.0/Bridge.dll
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Projet/Bridge/Bridge/bin/Debug/net6.0/Bridge.pdb
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Projet/Bridge/Bridge/obj/Debug/net6.0/Bridge.csproj.AssemblyReference.cache
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Projet/Bridge/Bridge/obj/Debug/net6.0/Bridge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Projet/Bridge/Bridge/obj/Debug/net6.0/Bridge.AssemblyInfoInputs.cache
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Projet/Bridge/Bridge/obj/Debug/net6.0/Bridge.AssemblyInfo.cs
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Projet/Bridge/Bridge/obj/Debug/net6.0/Bridge.csproj.CoreCompileInputs.cache
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Projet/Bridge/Bridge/obj/Debug/net6.0/Bridge.dll
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Projet/Bridge/Bridge/obj/Debug/net6.0/refint/Bridge.dll
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Projet/Bridge/Bridge/obj/Debug/net6.0/Bridge.pdb
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Projet/Bridge/Bridge/obj/Debug/net6.0/Bridge.genruntimeconfig.cache
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Projet/Bridge/Bridge/obj/Debug/net6.0/ref/Bridge.dll

@@ -249,3 +249,33 @@ objets puissent y répondre.
 ![alt text](./img/Chain.png)
 
 ![alt text](./img/Chain2.png)
+
+### Command
+
+Ce pattern transforme une requête en objet.
+
+Ceci facilite les opérateurs relatives à la requête ex: Annulation,
+queue, suivi, etc...
+
+![alt text](./img/Command.png)
+
+### Iterator
+
+Itérateur est un patron de conception comportemental qui permet de parcourir les éléments d’une collection sans révéler sa représentation interne (liste, pile, arbre, etc.).
+
+Source : https://refactoring.guru/fr/design-patterns/iterator
+
+![alt text](./img/Iterator.png)
+
+![alt text](./img/Iterator2.png)
+
+### Mediator
+
+Son but c'est de construire un objet
+L'objet son role c'est de gréer controler les interactions entre les autres objets
+Les objets ne sont pas censés se connaître entre eux
+Il s'occupe de la gestion
+
+![alt text](./img/Mediator.png)
+
+![alt text](./img/Mediator2.png)

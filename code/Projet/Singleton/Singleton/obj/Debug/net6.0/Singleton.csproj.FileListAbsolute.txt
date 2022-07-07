@@ -1,0 +1,15 @@
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Projet/Singleton/Singleton/bin/Debug/net6.0/Singleton
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Projet/Singleton/Singleton/bin/Debug/net6.0/Singleton.deps.json
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Projet/Singleton/Singleton/bin/Debug/net6.0/Singleton.runtimeconfig.json
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Projet/Singleton/Singleton/bin/Debug/net6.0/Singleton.dll
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Projet/Singleton/Singleton/bin/Debug/net6.0/Singleton.pdb
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Projet/Singleton/Singleton/obj/Debug/net6.0/Singleton.csproj.AssemblyReference.cache
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Projet/Singleton/Singleton/obj/Debug/net6.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Projet/Singleton/Singleton/obj/Debug/net6.0/Singleton.AssemblyInfoInputs.cache
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Projet/Singleton/Singleton/obj/Debug/net6.0/Singleton.AssemblyInfo.cs
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Projet/Singleton/Singleton/obj/Debug/net6.0/Singleton.csproj.CoreCompileInputs.cache
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Projet/Singleton/Singleton/obj/Debug/net6.0/Singleton.dll
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Projet/Singleton/Singleton/obj/Debug/net6.0/refint/Singleton.dll
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Projet/Singleton/Singleton/obj/Debug/net6.0/Singleton.pdb
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Projet/Singleton/Singleton/obj/Debug/net6.0/Singleton.genruntimeconfig.cache
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/DesignPattern/coursGit/CoursDesignPatterns/code/Projet/Singleton/Singleton/obj/Debug/net6.0/ref/Singleton.dll
