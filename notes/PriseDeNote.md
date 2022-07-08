@@ -221,7 +221,7 @@ de l'arbre.
 ### Decorator
 
 Ce pattern permet d'ajouter DYNAMIQUEMENT des fonctionnalités
-SUPPLEMENTAIRE à un objet sans modifier l'interface de l'objet ("les clients d l'objet ne sont pas au courant de la modification")
+SUPPLEMENTAIRE à un objet sans modifier l'interface de l'objet ("les clients de l'objet ne sont pas au courant de la modification")
 
 Il s'agit d'une alternative à la création d'une sous-classe qui permettrait d'enrichir l'objet.
 
